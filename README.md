@@ -56,6 +56,8 @@
 Дополнительные баллы: 
 - В README приложена музыка - **4 доп. балла** (8 доп. баллов если в вашем исполнении)
 
+- My own performance: [song for homework](<song for homework.mp3>)
+
 
 
 Удачи! ✨✨
